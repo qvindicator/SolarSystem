@@ -1,4 +1,4 @@
 # SolarSystem
 A plugin that manages multiple worlds on a server
 
-Works on spigot and is created for 1.14.3
+Created for use with spigot and 1.14.3
