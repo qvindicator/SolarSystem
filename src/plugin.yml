@@ -1,0 +1,6 @@
+name: SolarSystem
+version: 1.0
+author: Quittime
+main: com.gmail.qvindicator.solarsystem.Main
+api-version: 1.14
+commands:
